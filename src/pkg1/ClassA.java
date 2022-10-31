@@ -10,6 +10,10 @@ public class ClassA {
 	{
 		System.out.println("mit college, pune");
 	}
+	public void clgname1()
+	{
+		System.out.println("mit college, pune");
+	}
 	
 
 }
